@@ -1,0 +1,39 @@
+{
+  "fetchPeriod": 172800.0,
+  "adProbability": 1.0,
+  "timeIntervalPerAd": 15.0,
+  "minCheckpointsPerAd": 0,
+  "bannerRefreshPeriod": 60.0,
+  "tiers": [
+    [
+      {
+        "weight": 4.5,
+        "name": "facebook"
+      },
+      {
+        "weight": 4.5,
+        "name": "admob"
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "admob"
+      }
+    ]
+  ],
+  "bannerTiers": [
+    [
+      {
+        "weight": 3.0,
+        "name": "amazon"
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "admob"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "fetchPeriod": 172800.0,
+  "adProbability": 1.0,
+  "timeIntervalPerAd": 20.0,
+  "minCheckpointsPerAd": 0,
+  "tiers": [
+    [
+      {
+        "weight": 100.0,
+        "name": "pyramid_cross_promo_tier1",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-freecell_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=freecell&af_sub2=Tier%201",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "5efa32575be07de6c0e63f46d147b8494fe42b03",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "c384a3219b3a88138490d5bc384b46aaa4041d4e",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "1e1520a42deb500b812bff3840bbe23d1b9eb584",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "40e9fca819cc4ef8afdc700ecabbcbfcd2db2f4e",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "f4b9056166dc20a708a540b4ea9509cff92cf43b",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "1b20880383e6ed994d0ffa0be1fbd5b7e88a085d",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "max"
+      },
+      {
+        "weight": 10.0,
+        "name": "mopub"
+      },
+      {
+        "weight": 0.6,
+        "name": "pyramid_cross_promo_tier2",
+        "lifetimeCap": 2,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-freecell_Fall2020_V2_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=freecell&af_sub2=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "3b3bffca3c43bd37fe91bd5ed3fb020a4a620e76",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "dfc2ec3dea609276cb1ba00f9f58f773e0b53d3e",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "88486be66a78f3840b852ec876046000dd08f73f",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "435d24cf4fd84c397ff890b8ae987798c980a07a",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "0b6b67401a892aac4ab53273841739ab5c658684",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "3e79b57292911380a3477c4d10482abdc02aeca3",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 3.0,
+        "name": "admob"
+      },
+      {
+        "weight": 4.0,
+        "name": "facebook"
+      },
+      {
+        "weight": 2.0,
+        "name": "applovin"
+      }
+    ],
+    [
+      {
+        "weight": 100.0,
+        "name": "pyramid_cross_promo_tier3",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-freecell_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=freecell&af_sub2=Tier%203",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "5efa32575be07de6c0e63f46d147b8494fe42b03",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "c384a3219b3a88138490d5bc384b46aaa4041d4e",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "1e1520a42deb500b812bff3840bbe23d1b9eb584",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "40e9fca819cc4ef8afdc700ecabbcbfcd2db2f4e",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "f4b9056166dc20a708a540b4ea9509cff92cf43b",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "1b20880383e6ed994d0ffa0be1fbd5b7e88a085d",
+            "extension": "png"
+          }
+        ]
+      }
+    ]
+  ]
+}

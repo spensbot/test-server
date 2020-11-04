@@ -1,0 +1,22 @@
+{
+  "fetchPeriod": 172800.0,
+  "adProbability": 1.0,
+  "timeIntervalPerAd": 20.0,
+  "minCheckpointsPerAd": 0,
+  "interstitialtiers": [
+    [
+      {
+        "weight": 10.0,
+        "name": "max"
+      }
+    ]
+  ],
+  "bannerTiers": [
+    [
+      {
+        "weight": 10.0,
+        "name": "max"
+      }
+    ]
+  ]
+}
