@@ -3,7 +3,7 @@
   "adProbability": 1.0,
   "timeIntervalPerAd": 20.0,
   "minCheckpointsPerAd": 0,
-  "interstitialtiers": [
+  "interstitialTiers": [
     [
       {
         "weight": 100.0,
