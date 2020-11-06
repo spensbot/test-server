@@ -1,7 +1,7 @@
 {
-  "fetchPeriod": 43200,
-  "adProbability": 0.9,
-  "timeIntervalPerAd": 30.0,
+  "fetchPeriod": 86400.0,
+  "adProbability": 1.0,
+  "timeIntervalPerAd": 25.0,
   "minCheckpointsPerAd": 0,
   "tiers": [
     [
@@ -9,7 +9,7 @@
         "weight": 100.0,
         "name": "pyramid_cross_promo_tier1",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-solitaire_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%201",
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-spider_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=spider&af_sub2=Tier%201",
         "images": [
           {
             "width": 1472,
@@ -59,7 +59,7 @@
         "weight": 0.5,
         "name": "pyramid_cross_promo_tier2",
         "lifetimeCap": 2,
-        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020_V2_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=solitaire&af_sub2=Tier%202",
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-spider_Fall2020_V2_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=spider&af_sub2=Tier%202",
         "images": [
           {
             "width": 1472,
@@ -105,7 +105,7 @@
         "weight": 100.0,
         "name": "pyramid_cross_promo_tier3",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-solitaire_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%203",
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-spider_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=spider&af_sub2=Tier%203",
         "images": [
           {
             "width": 1472,
