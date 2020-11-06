@@ -1,5 +1,5 @@
 {
-  "fetchPeriod": 43200,
+  "fetchPeriod": 43200.0,
   "adProbability": 1.0,
   "timeIntervalPerAd": 20.0,
   "minCheckpointsPerAd": 0,
