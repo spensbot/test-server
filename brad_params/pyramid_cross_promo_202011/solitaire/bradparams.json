@@ -60,7 +60,7 @@
         "name": "admob"
       },
       {
-        "weight": 0.3333333333333333,
+        "weight": 10.0,
         "name": "pyramid_tier2_V2_Playnow",
         "lifetimeCap": 1,
         "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=solitaire&af_sub2=Tier%202",
@@ -104,7 +104,7 @@
         ]
       },
       {
-        "weight": 0.3333333333333333,
+        "weight": 10.0,
         "name": "pyramid_tier2_V2_Playforfree",
         "lifetimeCap": 1,
         "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playforfree&af_sub1=solitaire&af_sub2=Tier%202",
