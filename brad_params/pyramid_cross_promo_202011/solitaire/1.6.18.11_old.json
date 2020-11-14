@@ -6,10 +6,10 @@
   "tiers": [
     [
       {
-        "weight": 100.0,
-        "name": "pyramid_cross_promo_tier1",
+        "weight": 10.0,
+        "name": "pyramid_tier1_V1_Playnow",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-solitaire_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%201",
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%201",
         "images": [
           {
             "width": 1472,
@@ -56,10 +56,10 @@
         "name": "max"
       },
       {
-        "weight": 0.5,
-        "name": "pyramid_cross_promo_tier2",
-        "lifetimeCap": 2,
-        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020_V2_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=solitaire&af_sub2=Tier%202",
+        "weight": 0.33,
+        "name": "pyramid_tier2_V2_Playnow",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=solitaire&af_sub2=Tier%202",
         "images": [
           {
             "width": 1472,
@@ -98,14 +98,58 @@
             "extension": "png"
           }
         ]
+      },
+      {
+        "weight": 0.33,
+        "name": "pyramid_tier2_V2_Playforfree",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playforfree&af_sub1=solitaire&af_sub2=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "0023a4de06a93305e1360d3f43042b9acc09a885",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "458af8b1717bc3bda6b1c39c11a5ce98106f777d",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "93d603b2fb63328073645a6fa369702b6c8969ad",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "951c51b88c740a376b24c63b265c8b73fcac748d",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "d9802485acb4540ba0aac2d57fd7d4836d548f52",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "55b33b5aa4fb43b3d457d06c8e83c752a860531b",
+            "extension": "png"
+          }
+        ]
       }
     ],
     [
       {
-        "weight": 100.0,
-        "name": "pyramid_cross_promo_tier3",
+        "weight": 10.0,
+        "name": "pyramid_tier3_V1_Playnow",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-solitaire_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%203",
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%203",
         "images": [
           {
             "width": 1472,
