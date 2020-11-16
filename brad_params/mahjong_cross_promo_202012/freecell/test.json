@@ -1,7 +1,7 @@
 {
   "fetchPeriod": 3600.0,
   "adProbability": 1.0,
-  "timeIntervalPerAd": 0.0,
+  "timeIntervalPerAd": 20.0,
   "minCheckpointsPerAd": 0,
   "tiers": [
     [
@@ -9,7 +9,7 @@
         "weight": 10.0,
         "name": "mahjong_tier1_V4",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-blackjack_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=blackjack&af_sub1=Tier%201",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-freecell_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=freecell&af_sub1=Tier%201",
         "images": [
           {
             "width": 2048,
@@ -52,18 +52,14 @@
     ],
     [
       {
-        "weight": 10.0,
-        "name": "applovin"
-      },
-      {
-        "weight": 10.0,
-        "name": "admob"
+        "weight": 0.33,
+        "name": "max"
       },
       {
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V1",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-blackjack_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1&af_channel=blackjack&af_sub1=Tier%202",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-freecell_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1&af_channel=freecell&af_sub1=Tier%202",
         "images": [
           {
             "width": 1472,
@@ -107,7 +103,7 @@
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V3",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-blackjack_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V3&af_channel=blackjack&af_sub1=Tier%202",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-freecell_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V3&af_channel=freecell&af_sub1=Tier%202",
         "images": [
           {
             "width": 1472,
@@ -153,7 +149,7 @@
         "weight": 10.0,
         "name": "mahjong_tier3_V2",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-blackjack_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2&af_channel=blackjack&af_sub1=Tier%203",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-freecell_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2&af_channel=freecell&af_sub1=Tier%203",
         "images": [
           {
             "width": 1472,
@@ -197,7 +193,7 @@
         "weight": 10.0,
         "name": "mahjong_tier3_V4",
         "lifetimeCap": 2,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-blackjack_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=blackjack&af_sub1=Tier%203",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-freecell_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=freecell&af_sub1=Tier%203",
         "images": [
           {
             "width": 2048,
