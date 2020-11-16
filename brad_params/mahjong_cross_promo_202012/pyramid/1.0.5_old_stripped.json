@@ -1,0 +1,14 @@
+{
+  "fetchPeriod": 3600.0,
+  "adProbability": 1.0,
+  "timeIntervalPerAd": 30.0,
+  "minCheckpointsPerAd": 0,
+  "tiers": [
+    [
+      {
+        "weight": 10.0,
+        "name": "max"
+      }
+    ]
+  ]
+}

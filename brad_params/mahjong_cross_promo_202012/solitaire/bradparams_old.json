@@ -1,0 +1,198 @@
+{
+  "fetchPeriod": 3600.0,
+  "adProbability": 0.9,
+  "timeIntervalPerAd": 30.0,
+  "minCheckpointsPerAd": 0,
+  "tiers": [
+    [
+      {
+        "weight": 10.0,
+        "name": "pyramid_tier1_V1_Playnow",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%201",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "9bae0575fddd442dbb49e85be82ba77c5f5eb075",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "d1e8215eea2d4fa586a2912fc97d7680cad8be86",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "7f27e2b809a8a90a19f2f2ebb70a13681e12db0a",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "430f39bf916dba539b1aa119d57bb7b10693af04",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "7cadc48210beeda9b3487bb7585c5fae5b25c72d",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "40dc3e880559775e0b3cc0d657d2e6bd0df82acb",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "max"
+      },
+      {
+        "weight": 10.0,
+        "name": "admob"
+      },
+      {
+        "weight": 0.3333333333333333,
+        "name": "pyramid_tier2_V2_Playnow",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=solitaire&af_sub2=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "d87b2e161f2bb5d17034a936eac953017be09124",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "b24f75029b263a054a15906908dfdffe5abf211d",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "c4364f0e7a192c677c60e18acbde97a9fea8eb68",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "39dec43f32c5e6be1d0021c10fae65e9410abbca",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "d17a4f5a8c095c69f3d321a5cbc048345bd75e8e",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "7103139ff18585e57f5cdf87acf95439375ebbfe",
+            "extension": "png"
+          }
+        ]
+      },
+      {
+        "weight": 0.3333333333333333,
+        "name": "pyramid_tier2_V2_Playforfree",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playforfree&af_sub1=solitaire&af_sub2=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "0023a4de06a93305e1360d3f43042b9acc09a885",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "458af8b1717bc3bda6b1c39c11a5ce98106f777d",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "93d603b2fb63328073645a6fa369702b6c8969ad",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "951c51b88c740a376b24c63b265c8b73fcac748d",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "d9802485acb4540ba0aac2d57fd7d4836d548f52",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "55b33b5aa4fb43b3d457d06c8e83c752a860531b",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "pyramid_tier3_V1_Playnow",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-solitaire_Fall2020&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=solitaire&af_sub2=Tier%203",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "9bae0575fddd442dbb49e85be82ba77c5f5eb075",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "d1e8215eea2d4fa586a2912fc97d7680cad8be86",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "7f27e2b809a8a90a19f2f2ebb70a13681e12db0a",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "430f39bf916dba539b1aa119d57bb7b10693af04",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "7cadc48210beeda9b3487bb7585c5fae5b25c72d",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "40dc3e880559775e0b3cc0d657d2e6bd0df82acb",
+            "extension": "png"
+          }
+        ]
+      }
+    ]
+  ]
+}

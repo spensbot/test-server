@@ -1,0 +1,150 @@
+{
+  "fetchPeriod": 3600.0,
+  "adProbability": 1.0,
+  "timeIntervalPerAd": 25.0,
+  "minCheckpointsPerAd": 0,
+  "tiers": [
+    [
+      {
+        "weight": 10.0,
+        "name": "pyramid_cross_promo_tier1",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T1-spider_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=spider&af_sub2=Tier%201",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "9bae0575fddd442dbb49e85be82ba77c5f5eb075",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "d1e8215eea2d4fa586a2912fc97d7680cad8be86",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "7f27e2b809a8a90a19f2f2ebb70a13681e12db0a",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "430f39bf916dba539b1aa119d57bb7b10693af04",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "7cadc48210beeda9b3487bb7585c5fae5b25c72d",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "40dc3e880559775e0b3cc0d657d2e6bd0df82acb",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "max"
+      },
+      {
+        "weight": 0.5,
+        "name": "pyramid_cross_promo_tier2",
+        "lifetimeCap": 2,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T2-spider_Fall2020_V2_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2_Playnow&af_sub1=spider&af_sub2=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "d87b2e161f2bb5d17034a936eac953017be09124",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "b24f75029b263a054a15906908dfdffe5abf211d",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "c4364f0e7a192c677c60e18acbde97a9fea8eb68",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "39dec43f32c5e6be1d0021c10fae65e9410abbca",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "d17a4f5a8c095c69f3d321a5cbc048345bd75e8e",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "7103139ff18585e57f5cdf87acf95439375ebbfe",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "pyramid_cross_promo_tier3",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/LOPj?pid=Cross%20Promo&c=T3-spider_Fall2020_V1_Playnow&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1_Playnow&af_sub1=spider&af_sub2=Tier%203",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "9bae0575fddd442dbb49e85be82ba77c5f5eb075",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "d1e8215eea2d4fa586a2912fc97d7680cad8be86",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "7f27e2b809a8a90a19f2f2ebb70a13681e12db0a",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "430f39bf916dba539b1aa119d57bb7b10693af04",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "7cadc48210beeda9b3487bb7585c5fae5b25c72d",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "40dc3e880559775e0b3cc0d657d2e6bd0df82acb",
+            "extension": "png"
+          }
+        ]
+      }
+    ]
+  ]
+}
