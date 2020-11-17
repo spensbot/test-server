@@ -1,0 +1,238 @@
+{
+  "fetchPeriod": 3600.0,
+  "adProbability": 0.9,
+  "timeIntervalPerAd": 30.0,
+  "minCheckpointsPerAd": 0,
+  "tiers": [
+    [
+      {
+        "weight": 10.0,
+        "name": "mahjong_tier1_V4",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-solitaire_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=solitaire&af_sub1=Tier%201",
+        "images": [
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "11fd6df6646698261d0c846a32c5230b28bedc4f",
+            "extension": "png"
+          },
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "b3fcbc2a0a9ac82ee2e2fba5056225613f7b2887",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "88319873a499f1c443214a1cc0b2dc2a8e779670",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "e464ed2500807798106a83ac02ba00678cc57fb9",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "1dc0882a9a234dcc98cfcffd543a2106861f3f11",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "492eba65f2272ede71989c7031059526db8a69b6",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 0.3,
+        "name": "max"
+      },
+      {
+        "weight": 0.3333333333333333,
+        "name": "mahjong_tier2_V1",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-solitaire_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1&af_channel=solitaire&af_sub1=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "7ced6601df3a554e0358ace505ba5171333b95e1",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "6872d4b20752a17642e58c6432e27af3533b84ab",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "999c518996b93cdaa13e57f25db6e5e664faf870",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "413fbbea6f23da2c3866642f951c7d5ed0c4961d",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "d0f5c37cb813772b17440674ee2737b14e5f928c",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "89ab9ea6d860529363a216d47be4991c49de2058",
+            "extension": "png"
+          }
+        ]
+      },
+      {
+        "weight": 0.3333333333333333,
+        "name": "mahjong_tier2_V3",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-solitaire_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V3&af_channel=solitaire&af_sub1=Tier%202",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "0c28497dc5f2b3a6f16b98c9884e5a2077d7e5e6",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "edd6dc9e6133c62aefc6152ef247ee434083aa57",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "3aa069069f29ff8c978df5658171cf51e5c8a1fa",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "bc2891eeb67751ba377d749b7c2a05bc36c6c6ee",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "b116d7d7dc9d8ed9e156470bb058c039e0440ce4",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "e9437e1352fa2e3049dc72b066779c743975893d",
+            "extension": "png"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "weight": 10.0,
+        "name": "mahjong_tier3_V2",
+        "lifetimeCap": 1,
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-solitaire_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2&af_channel=solitaire&af_sub1=Tier%203",
+        "images": [
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "1eb399ba6d2a16dea9c3980fcffbfc6d16a0be71",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "7c538ffe6e483647d4784d28bac03b1abe4f0e57",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "e944a866fe5f24c2f4629b89ebbf2954c989ff92",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "6e899be2f1dcb80b02f6b7a9f56fba1929a0775e",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "679b4b75021abeb18c8f0164c7a51a20f2a2b4a5",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "80a27fcb7d3ca58db6fd94d3413adb4db27be83b",
+            "extension": "png"
+          }
+        ]
+      },
+      {
+        "weight": 10.0,
+        "name": "mahjong_tier3_V4",
+        "lifetimeCap": 2,
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-solitaire_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=solitaire&af_sub1=Tier%203",
+        "images": [
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "11fd6df6646698261d0c846a32c5230b28bedc4f",
+            "extension": "png"
+          },
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "b3fcbc2a0a9ac82ee2e2fba5056225613f7b2887",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "88319873a499f1c443214a1cc0b2dc2a8e779670",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "e464ed2500807798106a83ac02ba00678cc57fb9",
+            "extension": "png"
+          },
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "1dc0882a9a234dcc98cfcffd543a2106861f3f11",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "492eba65f2272ede71989c7031059526db8a69b6",
+            "extension": "png"
+          }
+        ]
+      }
+    ]
+  ]
+}
