@@ -8,7 +8,7 @@
       {
         "weight": 10.0,
         "name": "mahjong_tier1_V4",
-        "lifetimeCap": 1,
+        "lifetimeCap": 1000,
         "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-freecell_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=freecell&af_sub1=Tier%201",
         "images": [
           {
