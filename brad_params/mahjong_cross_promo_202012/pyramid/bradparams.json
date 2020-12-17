@@ -12,39 +12,39 @@
         "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-pyramid_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=pyramid&af_sub1=Tier%201",
         "images": [
           {
-            "width": 2048,
-            "height": 2732,
-            "sha1": "11fd6df6646698261d0c846a32c5230b28bedc4f",
-            "extension": "png"
-          },
-          {
-            "width": 1472,
-            "height": 828,
-            "sha1": "b3fcbc2a0a9ac82ee2e2fba5056225613f7b2887",
-            "extension": "png"
-          },
-          {
-            "width": 828,
-            "height": 1472,
-            "sha1": "88319873a499f1c443214a1cc0b2dc2a8e779670",
+            "width": 1242,
+            "height": 2208,
+            "sha1": "9cd073cd28907920a2bc07fea7f2ab1e440ee5be",
             "extension": "png"
           },
           {
             "width": 2208,
             "height": 1242,
-            "sha1": "e464ed2500807798106a83ac02ba00678cc57fb9",
-            "extension": "png"
-          },
-          {
-            "width": 1242,
-            "height": 2208,
-            "sha1": "1dc0882a9a234dcc98cfcffd543a2106861f3f11",
+            "sha1": "9c459004dab68917f430f6c685318db284cec6f0",
             "extension": "png"
           },
           {
             "width": 2732,
             "height": 2048,
-            "sha1": "492eba65f2272ede71989c7031059526db8a69b6",
+            "sha1": "507907f4eb4dce34ba8d98202601cd625986b82b",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "9b98eb65a70b5852b8a36743dffe768002ff6663",
+            "extension": "png"
+          },
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "99028bfc588cd3de65fa209e77817132796cb1e8",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "3db147132c4b8ed43a2aaaa59b0b2204e4de94c9",
             "extension": "png"
           }
         ]
@@ -62,7 +62,7 @@
       {
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V1",
-        "lifetimeCap": 1,
+        "lifetimeCap": 2,
         "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-pyramid_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1&af_channel=pyramid&af_sub1=Tier%202",
         "images": [
           {
@@ -106,7 +106,7 @@
       {
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V3",
-        "lifetimeCap": 1,
+        "lifetimeCap": 2,
         "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-pyramid_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V3&af_channel=pyramid&af_sub1=Tier%202",
         "images": [
           {
@@ -146,6 +146,50 @@
             "extension": "png"
           }
         ]
+      },
+      {
+        "weight": 0.3333333333333333,
+        "name": "mahjong_tier2_V4",
+        "lifetimeCap": 2,
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-pyramid_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=pyramid&af_sub1=Tier%202",
+        "images": [
+          {
+            "width": 1242,
+            "height": 2208,
+            "sha1": "9cd073cd28907920a2bc07fea7f2ab1e440ee5be",
+            "extension": "png"
+          },
+          {
+            "width": 2208,
+            "height": 1242,
+            "sha1": "9c459004dab68917f430f6c685318db284cec6f0",
+            "extension": "png"
+          },
+          {
+            "width": 2732,
+            "height": 2048,
+            "sha1": "507907f4eb4dce34ba8d98202601cd625986b82b",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "9b98eb65a70b5852b8a36743dffe768002ff6663",
+            "extension": "png"
+          },
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "99028bfc588cd3de65fa209e77817132796cb1e8",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "3db147132c4b8ed43a2aaaa59b0b2204e4de94c9",
+            "extension": "png"
+          }
+        ]
       }
     ],
     [
@@ -170,7 +214,7 @@
       {
         "weight": 10.0,
         "name": "mahjong_tier3_V2",
-        "lifetimeCap": 1,
+        "lifetimeCap": 3,
         "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-pyramid_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2&af_channel=pyramid&af_sub1=Tier%203",
         "images": [
           {
@@ -214,43 +258,43 @@
       {
         "weight": 10.0,
         "name": "mahjong_tier3_V4",
-        "lifetimeCap": 2,
+        "lifetimeCap": 3,
         "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-pyramid_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=pyramid&af_sub1=Tier%203",
         "images": [
           {
-            "width": 2048,
-            "height": 2732,
-            "sha1": "11fd6df6646698261d0c846a32c5230b28bedc4f",
-            "extension": "png"
-          },
-          {
-            "width": 1472,
-            "height": 828,
-            "sha1": "b3fcbc2a0a9ac82ee2e2fba5056225613f7b2887",
-            "extension": "png"
-          },
-          {
-            "width": 828,
-            "height": 1472,
-            "sha1": "88319873a499f1c443214a1cc0b2dc2a8e779670",
+            "width": 1242,
+            "height": 2208,
+            "sha1": "9cd073cd28907920a2bc07fea7f2ab1e440ee5be",
             "extension": "png"
           },
           {
             "width": 2208,
             "height": 1242,
-            "sha1": "e464ed2500807798106a83ac02ba00678cc57fb9",
-            "extension": "png"
-          },
-          {
-            "width": 1242,
-            "height": 2208,
-            "sha1": "1dc0882a9a234dcc98cfcffd543a2106861f3f11",
+            "sha1": "9c459004dab68917f430f6c685318db284cec6f0",
             "extension": "png"
           },
           {
             "width": 2732,
             "height": 2048,
-            "sha1": "492eba65f2272ede71989c7031059526db8a69b6",
+            "sha1": "507907f4eb4dce34ba8d98202601cd625986b82b",
+            "extension": "png"
+          },
+          {
+            "width": 2048,
+            "height": 2732,
+            "sha1": "9b98eb65a70b5852b8a36743dffe768002ff6663",
+            "extension": "png"
+          },
+          {
+            "width": 1472,
+            "height": 828,
+            "sha1": "99028bfc588cd3de65fa209e77817132796cb1e8",
+            "extension": "png"
+          },
+          {
+            "width": 828,
+            "height": 1472,
+            "sha1": "3db147132c4b8ed43a2aaaa59b0b2204e4de94c9",
             "extension": "png"
           }
         ]

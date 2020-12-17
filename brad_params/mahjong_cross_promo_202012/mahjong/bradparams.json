@@ -1,15 +1,15 @@
 {
   "fetchPeriod": 3600.0,
   "adProbability": 1.0,
-  "timeIntervalPerAd": 20.0,
+  "timeIntervalPerAd": 30.0,
   "minCheckpointsPerAd": 0,
-  "interstitialTiers": [
+  "tiers": [
     [
       {
         "weight": 10.0,
         "name": "mahjong_tier1_V4",
         "lifetimeCap": 1,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-sudoku_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=sudoku&af_sub1=Tier%201",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T1-mahjong_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=mahjong&af_sub1=Tier%201",
         "images": [
           {
             "width": 1242,
@@ -59,7 +59,7 @@
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V1",
         "lifetimeCap": 2,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-sudoku_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1&af_channel=sudoku&af_sub1=Tier%202",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-mahjong_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V1&af_channel=mahjong&af_sub1=Tier%202",
         "images": [
           {
             "width": 1472,
@@ -103,7 +103,7 @@
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V3",
         "lifetimeCap": 2,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-sudoku_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V3&af_channel=sudoku&af_sub1=Tier%202",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-mahjong_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V3&af_channel=mahjong&af_sub1=Tier%202",
         "images": [
           {
             "width": 1472,
@@ -147,7 +147,7 @@
         "weight": 0.3333333333333333,
         "name": "mahjong_tier2_V4",
         "lifetimeCap": 2,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-sudoku_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=sudoku&af_sub1=Tier%202",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T2-mahjong_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=mahjong&af_sub1=Tier%202",
         "images": [
           {
             "width": 1242,
@@ -193,7 +193,7 @@
         "weight": 10.0,
         "name": "mahjong_tier3_V2",
         "lifetimeCap": 3,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-sudoku_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2&af_channel=sudoku&af_sub1=Tier%203",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-mahjong_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V2&af_channel=mahjong&af_sub1=Tier%203",
         "images": [
           {
             "width": 1472,
@@ -237,7 +237,7 @@
         "weight": 10.0,
         "name": "mahjong_tier3_V4",
         "lifetimeCap": 3,
-        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-sudoku_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=sudoku&af_sub1=Tier%203",
+        "actionUrl": "https://brainium.onelink.me/WOga?pid=Cross%20Promo&c=T3-mahjong_Mahjong_Launch&af_click_lookback=7d&is_retargeting=true&af_force_deeplink=True&af_adset=V4&af_channel=mahjong&af_sub1=Tier%203",
         "images": [
           {
             "width": 1242,
@@ -276,14 +276,6 @@
             "extension": "png"
           }
         ]
-      }
-    ]
-  ],
-  "bannerTiers": [
-    [
-      {
-        "weight": 10.0,
-        "name": "max"
       }
     ]
   ]
